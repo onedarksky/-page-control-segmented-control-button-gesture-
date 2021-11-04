@@ -13,6 +13,9 @@
 		073084D62733929200CDEE6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 073084D42733929200CDEE6F /* Main.storyboard */; };
 		073084D82733929400CDEE6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 073084D72733929400CDEE6F /* Assets.xcassets */; };
 		073084DB2733929400CDEE6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 073084D92733929400CDEE6F /* LaunchScreen.storyboard */; };
+		073084E327339A2B00CDEE6F /* WeibeiTC-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 073084E227339A2B00CDEE6F /* WeibeiTC-Bold.otf */; };
+		073084E92733DABB00CDEE6F /* next.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 073084E82733DABB00CDEE6F /* next.mp3 */; };
+		073084F42733E18F00CDEE6F /* Irasshaimase.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 073084F32733E18E00CDEE6F /* Irasshaimase.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		073084D72733929400CDEE6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		073084DA2733929400CDEE6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		073084DC2733929400CDEE6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		073084E227339A2B00CDEE6F /* WeibeiTC-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WeibeiTC-Bold.otf"; sourceTree = "<group>"; };
+		073084E82733DABB00CDEE6F /* next.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = next.mp3; sourceTree = "<group>"; };
+		073084F32733E18E00CDEE6F /* Irasshaimase.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Irasshaimase.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,8 +46,8 @@
 		073084C22733929200CDEE6F = {
 			isa = PBXGroup;
 			children = (
-				073084CD2733929200CDEE6F /* 利用 page control，segmented control，button & gesture 更換內容 */,
 				073084CC2733929200CDEE6F /* Products */,
+				073084CD2733929200CDEE6F /* 利用 page control，segmented control，button & gesture 更換內容 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,7 +68,10 @@
 				073084D42733929200CDEE6F /* Main.storyboard */,
 				073084D72733929400CDEE6F /* Assets.xcassets */,
 				073084D92733929400CDEE6F /* LaunchScreen.storyboard */,
+				073084E227339A2B00CDEE6F /* WeibeiTC-Bold.otf */,
 				073084DC2733929400CDEE6F /* Info.plist */,
+				073084E82733DABB00CDEE6F /* next.mp3 */,
+				073084F32733E18E00CDEE6F /* Irasshaimase.mp3 */,
 			);
 			path = "利用 page control，segmented control，button & gesture 更換內容";
 			sourceTree = "<group>";
@@ -127,7 +136,10 @@
 			files = (
 				073084DB2733929400CDEE6F /* LaunchScreen.storyboard in Resources */,
 				073084D82733929400CDEE6F /* Assets.xcassets in Resources */,
+				073084F42733E18F00CDEE6F /* Irasshaimase.mp3 in Resources */,
+				073084E327339A2B00CDEE6F /* WeibeiTC-Bold.otf in Resources */,
 				073084D62733929200CDEE6F /* Main.storyboard in Resources */,
+				073084E92733DABB00CDEE6F /* next.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
